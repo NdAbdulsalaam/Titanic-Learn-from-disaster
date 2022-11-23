@@ -24,4 +24,5 @@ There are 60+ predictive modelling algorithms to choose from. We must understand
 
 
 ## Access on
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/titanic-marchine-learning-learn-from-disaster/edit)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/titanic-marchine-learning-learn-from-disaster)
+
